@@ -2,9 +2,3 @@
 # Display
 debug.drm.mode.force=1280x800
 
-
-# Graphics
-ro.hardware.hwcomposer=drm
-ro.hardware.vulkan=broadcom
-ro.opengles.version=196609
-
