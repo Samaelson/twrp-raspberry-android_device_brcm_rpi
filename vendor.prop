@@ -1,6 +1,6 @@
 
 # Display
-debug.drm.mode.force=1024x600
+debug.drm.mode.force=1280x800
 
 
 # Graphics
