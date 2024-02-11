@@ -47,7 +47,7 @@ TARGET_USERIMAGES_SPARSE_EXT_DISABLED := true
 TARGET_USERIMAGES_USE_EXT4 := true
 
 # Properties
-TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
+TARGET_VENDOR_PROP += device/brcm/rpi/vendor.prop
 
 # Recovery
 TARGET_RECOVERY_FSTAB := device/brcm/rpi/recovery.fstab
